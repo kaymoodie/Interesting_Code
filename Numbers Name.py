@@ -191,24 +191,3 @@ while continues.capitalize() == 'Y':
     number = input("Enter number from 0 to 999999999999------->  ")
     print(f"Number {number} is {getWords(number)}")
     continues = input("Do you want to continue: (Y or N)------>  ")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
