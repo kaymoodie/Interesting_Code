@@ -1,4 +1,3 @@
-@@ -1,138 +0,0 @@
 class Node:
     """
         A class used to represent a Node from a linked list
